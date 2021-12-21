@@ -1,21 +1,6 @@
 # PHP Kuiz
 ## Simple web based quiz application written in php and mysqli. This application can be used to test the knowledge of the player
 
-
-
-PHP Kuiz  Home Page ->
-
-![q1](https://user-images.githubusercontent.com/16975766/28767646-1e855290-75f2-11e7-98c5-9d73128d2fed.png)
-
-
-PHP Kuiz Admin Panel ->
-
-![q2](https://user-images.githubusercontent.com/16975766/28767662-2f175ee6-75f2-11e7-99ce-d75edc39784f.png)
-
-
-### Full Demo
-[PHP Kuiz](https://www.youtube.com/watch?v=TwSz9bBSpbI)
-
 ### Requirements 
 
 - PHP 5.3 or higher recommended 
